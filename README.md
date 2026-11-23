@@ -2,6 +2,27 @@
 
 Portal institucional y área privada para jugadores, asistentes y administradores. PHP, PDO, MySQL, HTML, CSS y JavaScript vanilla. Nombre, contacto y política configurables desde el panel.
 
+## Proyecto académico · Fase 4
+
+**Objetivo:** facilitar la consulta de información de una academia de fútbol y organizar la inscripción y el seguimiento individual de sus integrantes mediante un sistema web conectado a una base de datos.
+
+**Integrante:** Juan David Naranjo López. Universidad Nacional Abierta y a Distancia (UNAD), CEAD Ibagué.
+
+**Repositorio:** https://github.com/juadavnallop/academiafutbol
+
+| Requisito de entrega | Ubicación |
+|---|---|
+| Documentación, objetivo, integrante y uso | Este README y [manual de instalación](docs/instalacion-xampp.md) |
+| Código fuente y archivos del proyecto | [app](app), [public](public), [config de ejemplo](config/config.example.php) y [scripts](scripts) |
+| Informe final del proyecto | [Informe de Fase 4 en Word](docs/informe_final.docx), versión del 18 de noviembre de 2026 |
+| Datos y recursos | [Base de datos y recursos](database/README.md), SQL y migraciones |
+| Evidencias de desarrollo y funcionamiento | [Índice de evidencias](docs/evidencias/README.md), capturas y resultados de pruebas |
+| Licencia opcional | No se ha asignado una licencia de distribución |
+
+El informe describe el sistema implementado, su metodología, resultados locales y conclusiones. Las encuestas, la validación institucional y el video académico siguen pendientes; no se presentan como realizados. La publicación en GitHub es posterior a la fecha del informe.
+
+![Página de inicio en escritorio](docs/evidencias/v3/inicio-1366.png)
+
 ## Abrir en este equipo
 
 Enciende Apache y MySQL en XAMPP y visita **http://localhost/cancha-abierta/**.
@@ -85,4 +106,15 @@ El alcance cambió respecto a la versión académica inicial. Los documentos y e
 
 ## GitHub
 
-Fuente sin dependencias complejas y con `.gitignore` para archivos privados. El ZIP contiene código, documentación y evidencia saneada; no bases, claves ni credenciales. No se creó repositorio remoto ni historial ficticio. Revisar los archivos preparados antes de publicar.
+El repositorio reúne código, SQL de instalación, informe y evidencias. `.gitignore` excluye configuración privada, claves de salud, sesiones, respaldos y archivos temporales. Los datos visibles en las capturas de prueba son ejemplos del laboratorio; no corresponden a integrantes reales.
+
+Para obtener una copia:
+
+```powershell
+git clone https://github.com/juadavnallop/academiafutbol.git cancha-abierta
+cd cancha-abierta
+```
+
+Continúa con la [guía de instalación](docs/instalacion-xampp.md). GitHub almacena el proyecto; para ejecutar PHP y la base de datos se necesita XAMPP o un servidor compatible.
+
+Para cambios nuevos, crea una rama con `git switch -c mejora/nombre`, guarda commits descriptivos y abre una solicitud de cambios antes de integrar a `main`. El historial registra las entregas realizadas, sin reconstruir avances anteriores.

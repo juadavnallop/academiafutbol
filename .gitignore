@@ -1,0 +1,22 @@
+/config/local.php
+/var/
+/tests/results/*.json
+/tests/results/*.png
+/.vscode/
+*.log
+*.zip
+
+# Entregas académicas y archivos propios del equipo
+/entregables/
+*.lnk
+Thumbs.db
+Desktop.ini
+
+# Credenciales y respaldos locales
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.sql.gz
+*.bak

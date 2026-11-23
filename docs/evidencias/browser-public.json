@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-11T20:12:45.742Z",
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Edg/157.0.4341.42",
+    "revision": "@7b1486be4607d53d9f93841b7c776bc525ca74b7",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",
+    "jsVersion": "15.7.11.4"
+  },
+  "results": [
+    {
+      "case": "360px inicio: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px academia: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px horarios: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px noticias: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px contacto: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px login: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px inicio: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px academia: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px horarios: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px noticias: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px contacto: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px login: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px inicio: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px academia: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px horarios: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px noticias: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px contacto: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px login: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "Teclado: enlace de salto enfocable",
+      "passed": true
+    },
+    {
+      "case": "Menú móvil se expande",
+      "passed": true
+    },
+    {
+      "case": "Validación nativa campos vacíos",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s inicio",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s academia",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s horarios",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s noticias",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s contacto",
+      "passed": true
+    }
+  ],
+  "performance_seconds": {
+    "inicio": {
+      "samples": [
+        0.019,
+        0.023200000002980233,
+        0.023200000002980233,
+        0.021100000001490118,
+        0.04080000000447035,
+        0.019399999998509884,
+        0.02019999999552965,
+        0.018799999997019767,
+        0.019600000001490116,
+        0.02170000000298023
+      ],
+      "median": 0.020649999998509885
+    },
+    "academia": {
+      "samples": [
+        0.01729999999701977,
+        0.02970000000298023,
+        0.023299999997019767,
+        0.02570000000298023,
+        0.025900000005960464,
+        0.029600000001490115,
+        0.02579999999701977,
+        0.07219999999552965,
+        0.026700000002980232,
+        0.04360000000149011
+      ],
+      "median": 0.026300000004470348
+    },
+    "horarios": {
+      "samples": [
+        0.032,
+        0.025099999994039536,
+        0.0275,
+        0.026399999998509883,
+        0.025699999995529653,
+        0.024,
+        0.02430000000447035,
+        0.023799999997019768,
+        0.02280000000447035,
+        0.0225
+      ],
+      "median": 0.024699999999254943
+    },
+    "noticias": {
+      "samples": [
+        0.023399999998509884,
+        0.02369999999552965,
+        0.023200000002980233,
+        0.022100000001490115,
+        0.027,
+        0.024,
+        0.024599999994039536,
+        0.02419999999552965,
+        0.02380000000447035,
+        0.02369999999552965
+      ],
+      "median": 0.02375
+    },
+    "contacto": {
+      "samples": [
+        0.022399999998509883,
+        0.028399999998509885,
+        0.02269999999552965,
+        0.024299999997019768,
+        0.02269999999552965,
+        0.02179999999701977,
+        0.021600000001490115,
+        0.023200000002980233,
+        0.0225,
+        0.022
+      ],
+      "median": 0.022599999997764825
+    }
+  }
+}

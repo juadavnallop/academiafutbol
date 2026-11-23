@@ -1,0 +1,575 @@
+{
+  "date": "2026-11-18T19:42:21.089Z",
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Edg/157.0.4341.60",
+    "revision": "@fbcb2989a6c61b72a4919fe1028e58e70131cd46",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",
+    "jsVersion": "15.7.11.7"
+  },
+  "results": [
+    {
+      "case": "360px inicio: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px academia: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px horarios: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px noticias: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px contacto: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px login: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "360px registro: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scroll": 345,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px inicio: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px academia: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px horarios: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px noticias: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px contacto: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px login: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "768px registro: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 768,
+        "scroll": 753,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px inicio: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px academia: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px horarios: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px noticias: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px contacto: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px login: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "1366px registro: sin desbordamiento y campos etiquetados",
+      "passed": true,
+      "detail": {
+        "width": 1366,
+        "scroll": 1351,
+        "main": true,
+        "unlabeled": 0
+      }
+    },
+    {
+      "case": "Teclado: enlace de salto enfocable",
+      "passed": true
+    },
+    {
+      "case": "Menú móvil se expande",
+      "passed": true
+    },
+    {
+      "case": "Validación nativa campos vacíos",
+      "passed": true
+    },
+    {
+      "case": "Login en navegador",
+      "passed": true
+    },
+    {
+      "case": "360px admin: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px admin/contenido&mod=horarios: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px admin/solicitudes: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px equipo: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px admin/cuentas: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px admin/configuracion: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px admin/auditoria: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px equipo/ficha&id=1&tab=resumen: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px equipo/ficha&id=1&tab=personal: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px equipo/ficha&id=1&tab=deportiva: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px equipo/ficha&id=1&tab=evaluaciones: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px equipo/ficha&id=1&tab=inscripcion: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "360px equipo/ficha&id=1&tab=salud: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px admin: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px admin/contenido&mod=horarios: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px admin/solicitudes: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px equipo: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px admin/cuentas: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px admin/configuracion: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px admin/auditoria: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px equipo/ficha&id=1&tab=resumen: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px equipo/ficha&id=1&tab=personal: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px equipo/ficha&id=1&tab=deportiva: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px equipo/ficha&id=1&tab=evaluaciones: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px equipo/ficha&id=1&tab=inscripcion: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "768px equipo/ficha&id=1&tab=salud: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px admin: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px admin/contenido&mod=horarios: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px admin/solicitudes: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px equipo: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px admin/cuentas: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px admin/configuracion: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px admin/auditoria: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px equipo/ficha&id=1&tab=resumen: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px equipo/ficha&id=1&tab=personal: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px equipo/ficha&id=1&tab=deportiva: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px equipo/ficha&id=1&tab=evaluaciones: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px equipo/ficha&id=1&tab=inscripcion: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "1366px equipo/ficha&id=1&tab=salud: sin desbordamiento global",
+      "passed": true
+    },
+    {
+      "case": "Jugador accede a su ficha en navegador",
+      "passed": true
+    },
+    {
+      "case": "Jugador 360px resumen",
+      "passed": true
+    },
+    {
+      "case": "Jugador 360px personal",
+      "passed": true
+    },
+    {
+      "case": "Jugador 360px deportiva",
+      "passed": true
+    },
+    {
+      "case": "Jugador 360px evaluaciones",
+      "passed": true
+    },
+    {
+      "case": "Jugador 360px inscripcion",
+      "passed": true
+    },
+    {
+      "case": "Jugador 360px salud",
+      "passed": true
+    },
+    {
+      "case": "Jugador 768px resumen",
+      "passed": true
+    },
+    {
+      "case": "Jugador 768px personal",
+      "passed": true
+    },
+    {
+      "case": "Jugador 768px deportiva",
+      "passed": true
+    },
+    {
+      "case": "Jugador 768px evaluaciones",
+      "passed": true
+    },
+    {
+      "case": "Jugador 768px inscripcion",
+      "passed": true
+    },
+    {
+      "case": "Jugador 768px salud",
+      "passed": true
+    },
+    {
+      "case": "Jugador 1366px resumen",
+      "passed": true
+    },
+    {
+      "case": "Jugador 1366px personal",
+      "passed": true
+    },
+    {
+      "case": "Jugador 1366px deportiva",
+      "passed": true
+    },
+    {
+      "case": "Jugador 1366px evaluaciones",
+      "passed": true
+    },
+    {
+      "case": "Jugador 1366px inscripcion",
+      "passed": true
+    },
+    {
+      "case": "Jugador 1366px salud",
+      "passed": true
+    },
+    {
+      "case": "Impresión conserva perfil deportivo y excluye salud",
+      "passed": true
+    },
+    {
+      "case": "Jugador guarda datos con JavaScript activo",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s inicio",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s academia",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s horarios",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s noticias",
+      "passed": true
+    },
+    {
+      "case": "Carga de navegador <= 3s contacto",
+      "passed": true
+    }
+  ],
+  "performance_seconds": {
+    "inicio": {
+      "samples": [
+        0.024199999999254942,
+        0.027799999997019768,
+        0.0235,
+        0.027,
+        0.04069999999925494,
+        0.023599999997764826,
+        0.022599999997764825,
+        0.02380000000074506,
+        0.02380000000074506,
+        0.030200000002980232
+      ],
+      "median": 0.024
+    },
+    "academia": {
+      "samples": [
+        0.021400000002235173,
+        0.022800000000745058,
+        0.022,
+        0.04519999999925494,
+        0.022399999998509883,
+        0.0245,
+        0.03730000000074506,
+        0.022700000002980232,
+        0.022599999997764825,
+        0.022599999997764825
+      ],
+      "median": 0.02265000000037253
+    },
+    "horarios": {
+      "samples": [
+        0.034,
+        0.0285,
+        0.025300000000745056,
+        0.028900000002235172,
+        0.030399999998509883,
+        0.025400000002235173,
+        0.025199999999254943,
+        0.0255,
+        0.0405,
+        0.02830000000074506
+      ],
+      "median": 0.02840000000037253
+    },
+    "noticias": {
+      "samples": [
+        0.023900000002235175,
+        0.045099999997764824,
+        0.023099999997764825,
+        0.025,
+        0.024699999999254943,
+        0.02480000000074506,
+        0.023399999998509884,
+        0.022899999998509883,
+        0.024900000002235176,
+        0.0285
+      ],
+      "median": 0.02475
+    },
+    "contacto": {
+      "samples": [
+        0.023399999998509884,
+        0.023400000002235175,
+        0.028099999997764826,
+        0.02780000000074506,
+        0.023599999997764826,
+        0.02480000000074506,
+        0.039,
+        0.04819999999925494,
+        0.02579999999701977,
+        0.023399999998509884
+      ],
+      "median": 0.025299999998882414
+    }
+  }
+}

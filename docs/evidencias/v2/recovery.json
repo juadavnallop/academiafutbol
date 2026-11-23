@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-17T15:58:50.011340+00:00",
+  "server": "10.4.32-MariaDB",
+  "source": "members_b860a6691b_test",
+  "restored_to": "restore_f3efbabf99_test",
+  "results": [
+    {
+      "table": "academia_config",
+      "rows": 1,
+      "passed": true
+    },
+    {
+      "table": "administradores",
+      "rows": 5,
+      "passed": true
+    },
+    {
+      "table": "auditoria",
+      "rows": 18,
+      "passed": true
+    },
+    {
+      "table": "autorizaciones",
+      "rows": 4,
+      "passed": true
+    },
+    {
+      "table": "categorias",
+      "rows": 0,
+      "passed": true
+    },
+    {
+      "table": "contenidos_institucionales",
+      "rows": 0,
+      "passed": true
+    },
+    {
+      "table": "evaluaciones",
+      "rows": 1,
+      "passed": true
+    },
+    {
+      "table": "fichas_salud",
+      "rows": 1,
+      "passed": true
+    },
+    {
+      "table": "horarios",
+      "rows": 0,
+      "passed": true
+    },
+    {
+      "table": "inscripciones",
+      "rows": 2,
+      "passed": true
+    },
+    {
+      "table": "jugadores",
+      "rows": 2,
+      "passed": true
+    },
+    {
+      "table": "migraciones",
+      "rows": 2,
+      "passed": true
+    },
+    {
+      "table": "publicaciones",
+      "rows": 0,
+      "passed": true
+    },
+    {
+      "table": "solicitudes",
+      "rows": 0,
+      "passed": true
+    }
+  ]
+}

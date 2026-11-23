@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-11T20:13:21.708083+00:00",
+  "server": "10.4.32-MariaDB",
+  "source": "academia_test",
+  "restored_to": "restore_f3371d4056_test",
+  "results": [
+    {
+      "table": "administradores",
+      "rows": 5,
+      "passed": true
+    },
+    {
+      "table": "contenidos_institucionales",
+      "rows": 1,
+      "passed": true
+    },
+    {
+      "table": "categorias",
+      "rows": 1,
+      "passed": true
+    },
+    {
+      "table": "horarios",
+      "rows": 1,
+      "passed": true
+    },
+    {
+      "table": "publicaciones",
+      "rows": 1,
+      "passed": true
+    },
+    {
+      "table": "solicitudes",
+      "rows": 1,
+      "passed": true
+    }
+  ]
+}

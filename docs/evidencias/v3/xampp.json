@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-18T19:42:58.642948+00:00",
+  "http": [
+    {
+      "case": "Root redirects to functioning public portal",
+      "passed": true
+    },
+    {
+      "case": "Apache route inicio",
+      "passed": true
+    },
+    {
+      "case": "No sample identity inicio",
+      "passed": true
+    },
+    {
+      "case": "Apache route academia",
+      "passed": true
+    },
+    {
+      "case": "No sample identity academia",
+      "passed": true
+    },
+    {
+      "case": "Apache route horarios",
+      "passed": true
+    },
+    {
+      "case": "No sample identity horarios",
+      "passed": true
+    },
+    {
+      "case": "Apache route noticias",
+      "passed": true
+    },
+    {
+      "case": "No sample identity noticias",
+      "passed": true
+    },
+    {
+      "case": "Apache route login",
+      "passed": true
+    },
+    {
+      "case": "No sample identity login",
+      "passed": true
+    },
+    {
+      "case": "Apache route registro",
+      "passed": true
+    },
+    {
+      "case": "No sample identity registro",
+      "passed": true
+    },
+    {
+      "case": "Apache route privacidad",
+      "passed": true
+    },
+    {
+      "case": "No sample identity privacidad",
+      "passed": true
+    },
+    {
+      "case": "Cookie scoped to installation",
+      "passed": true
+    },
+    {
+      "case": "Asset css/styles.css",
+      "passed": true
+    },
+    {
+      "case": "Asset css/experience.css",
+      "passed": true
+    },
+    {
+      "case": "Asset js/app.js",
+      "passed": true
+    },
+    {
+      "case": "Asset img/chevron.svg",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied config/local.php",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied var/keys/health.key",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied database/instalar_xampp.sql",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied app/Core/bootstrap.php",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied scripts/create-admin.php",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied docs/instalacion-xampp.md",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied .htaccess",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied README.md",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied public/../config/local.php",
+      "passed": true
+    },
+    {
+      "case": "Internal path denied public/%2e%2e/config/local.php",
+      "passed": true
+    },
+    {
+      "case": "Private profile requires login",
+      "passed": true
+    }
+  ],
+  "transfer": {
+    "tables": [
+      {
+        "table": "academia_config",
+        "rows": 1,
+        "identical": true
+      },
+      {
+        "table": "administradores",
+        "rows": 1,
+        "identical": true
+      },
+      {
+        "table": "auditoria",
+        "rows": 0,
+        "identical": true
+      },
+      {
+        "table": "autorizaciones",
+        "rows": 0,
+        "identical": true
+      },
+      {
+        "table": "categorias",
+        "rows": 3,
+        "identical": true
+      },
+      {
+        "table": "contenidos_institucionales",
+        "rows": 4,
+        "identical": true
+      },
+      {
+        "table": "evaluaciones",
+        "rows": 0,
+        "identical": true
+      },
+      {
+        "table": "fichas_salud",
+        "rows": 0,
+        "identical": true
+      },
+      {
+        "table": "horarios",
+        "rows": 2,
+        "identical": true
+      },
+      {
+        "table": "inscripciones",
+        "rows": 0,
+        "identical": true
+      },
+      {
+        "table": "jugadores",
+        "rows": 0,
+        "identical": true
+      },
+      {
+        "table": "migraciones",
+        "rows": 2,
+        "identical": true
+      },
+      {
+        "table": "publicaciones",
+        "rows": 2,
+        "identical": true
+      },
+      {
+        "table": "solicitudes",
+        "rows": 0,
+        "identical": true
+      }
+    ],
+    "original_health_key_preserved": true,
+    "active_admins": 0
+  }
+}

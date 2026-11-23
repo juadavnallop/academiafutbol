@@ -1,0 +1,1 @@
+<section class="container section narrow"><p class="eyebrow">CANCHA ABIERTA</p><h1><?= e($title) ?></h1><p><?= e($message ?? 'Comprueba la dirección o regresa al inicio.') ?></p><a class="button" href="<?= e(url()) ?>">Volver al inicio</a></section>

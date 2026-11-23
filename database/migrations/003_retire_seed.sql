@@ -1,0 +1,7 @@
+-- Solo contenido inicial identificable; no elimina registros ni modifica cuentas creadas por usuarios.
+UPDATE contenidos_institucionales SET titulo='Información de la academia',contenido='Consulta la información del equipo, los horarios publicados y las novedades. Desde tu cuenta puedes revisar tu inscripción y el seguimiento deportivo.' WHERE contenido LIKE 'Cancha Abierta es una identidad ficticia%';
+UPDATE contenidos_institucionales SET estado='borrador',contenido='Contenido pendiente de revisión por la academia.' WHERE contenido LIKE 'En este escenario simulado,%' OR contenido LIKE 'La demostración incluye consulta%' OR contenido LIKE 'Ubicación de referencia: Ibagué,%';
+UPDATE categorias SET activo=0,descripcion='Categoría pendiente de revisión y activación por la academia.',nombre=REPLACE(nombre,' · demo','') WHERE nombre IN ('Iniciación · demo','Formación · demo','Proyección · demo') AND descripcion LIKE '%Categoría ficticia para pruebas%';
+UPDATE horarios SET vigente=0,lugar='Por definir' WHERE lugar='Cancha simulada A · sin sede real';
+UPDATE publicaciones SET estado='borrador',titulo=REPLACE(titulo,' · simulación',''),contenido='Contenido pendiente de revisión por la academia.' WHERE contenido LIKE 'Contenido ficticio. Los horarios de esta demostración%' OR contenido LIKE 'Actividad ficticia para validar la publicación%';
+UPDATE administradores SET nombre='Autor de contenidos iniciales' WHERE nombre='Autor de datos demostrativos' AND correo='autor-demo@example.com' AND activo=0;

@@ -1,0 +1,1 @@
+<?php if ($errors): ?><div class="notice error" role="alert" tabindex="-1" id="errors"><strong>Revisa la información:</strong><ul><?php foreach ($errors as $key => $error): ?><li><a href="#<?= e($key) ?>"><?= e($error) ?></a></li><?php endforeach; ?></ul></div><?php endif; ?>

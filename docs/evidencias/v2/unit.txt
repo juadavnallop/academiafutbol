@@ -1,0 +1,14 @@
+﻿PASS escape de HTML
+PASS contacto vacío y consentimiento
+PASS contacto válido
+PASS acepta correo válido de cualquier dominio
+PASS rechaza tipo fuera de catálogo
+PASS rechaza longitud excesiva
+PASS horario válido
+PASS orden de horas
+PASS día inválido
+PASS categoría inexistente
+PASS fecha imposible
+PASS fecha bisiesta
+PASS hora imposible
+13 pruebas aprobadas.

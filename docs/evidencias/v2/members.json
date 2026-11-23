@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-17T15:58:48.185645+00:00",
+  "php": "8.2.12",
+  "database": "10.4.32-MariaDB",
+  "results": [
+    {
+      "case": "Portal limpio inicio",
+      "passed": true
+    },
+    {
+      "case": "Portal limpio academia",
+      "passed": true
+    },
+    {
+      "case": "Portal limpio horarios",
+      "passed": true
+    },
+    {
+      "case": "Portal limpio noticias",
+      "passed": true
+    },
+    {
+      "case": "Portal limpio login",
+      "passed": true
+    },
+    {
+      "case": "Portal limpio privacidad",
+      "passed": true
+    },
+    {
+      "case": "Registro cerrado antes de configuración",
+      "passed": true
+    },
+    {
+      "case": "Administrador existente puede ingresar",
+      "passed": true
+    },
+    {
+      "case": "Configurar academia",
+      "passed": true
+    },
+    {
+      "case": "Marca configurable",
+      "passed": true
+    },
+    {
+      "case": "CSRF en registro",
+      "passed": true
+    },
+    {
+      "case": "Registro vacío rechazado",
+      "passed": true
+    },
+    {
+      "case": "Sin autorización de datos rechazado",
+      "passed": true
+    },
+    {
+      "case": "Inscripción y acceso propio",
+      "passed": true
+    },
+    {
+      "case": "Rol elevado por POST ignorado",
+      "passed": true
+    },
+    {
+      "case": "Jugador sin permiso equipo",
+      "passed": true
+    },
+    {
+      "case": "Jugador sin permiso equipo/ficha&id=1",
+      "passed": true
+    },
+    {
+      "case": "Jugador sin permiso admin",
+      "passed": true
+    },
+    {
+      "case": "Jugador sin permiso admin/cuentas",
+      "passed": true
+    },
+    {
+      "case": "Jugador sin permiso admin/configuracion",
+      "passed": true
+    },
+    {
+      "case": "Jugador sin permiso admin/auditoria",
+      "passed": true
+    },
+    {
+      "case": "IDOR lectura propia",
+      "passed": true
+    },
+    {
+      "case": "Jugador no puede cambiar inscripción",
+      "passed": true
+    },
+    {
+      "case": "Jugador no puede modificar evaluación",
+      "passed": true
+    },
+    {
+      "case": "Datos personales guardados y XSS escapado",
+      "passed": true
+    },
+    {
+      "case": "Menor sin representante rechazado",
+      "passed": true
+    },
+    {
+      "case": "Inscripción con representante",
+      "passed": true
+    },
+    {
+      "case": "No leer salud de otro jugador",
+      "passed": true
+    },
+    {
+      "case": "Correo duplicado controlado",
+      "passed": true
+    },
+    {
+      "case": "Asistente ve integrantes",
+      "passed": true
+    },
+    {
+      "case": "Búsqueda funciona",
+      "passed": true
+    },
+    {
+      "case": "Asistente sin permiso admin",
+      "passed": true
+    },
+    {
+      "case": "Asistente sin permiso admin/cuentas",
+      "passed": true
+    },
+    {
+      "case": "Asistente sin permiso admin/configuracion",
+      "passed": true
+    },
+    {
+      "case": "Asistente sin permiso admin/auditoria",
+      "passed": true
+    },
+    {
+      "case": "Asistente sin permiso equipo/ficha&id=1&tab=salud",
+      "passed": true
+    },
+    {
+      "case": "Asistente no modifica datos personales",
+      "passed": true
+    },
+    {
+      "case": "Asignación futbolística",
+      "passed": true
+    },
+    {
+      "case": "Dorsal inválido",
+      "passed": true
+    },
+    {
+      "case": "Categoría inexistente",
+      "passed": true
+    },
+    {
+      "case": "Peso fuera de rango rechazado",
+      "passed": true
+    },
+    {
+      "case": "Evaluación guardada",
+      "passed": true
+    },
+    {
+      "case": "Doble envío evaluación rechazado",
+      "passed": true
+    },
+    {
+      "case": "Jugador consulta historial",
+      "passed": true
+    },
+    {
+      "case": "Activación sin verificación rechazada",
+      "passed": true
+    },
+    {
+      "case": "Actualizar inscripción",
+      "passed": true
+    },
+    {
+      "case": "Salud requiere autorización explícita",
+      "passed": true
+    },
+    {
+      "case": "Admin no inventa autorización de salud",
+      "passed": true
+    },
+    {
+      "case": "Titular autoriza salud",
+      "passed": true
+    },
+    {
+      "case": "Salud cifrada y vinculada al jugador",
+      "passed": true
+    },
+    {
+      "case": "Admin autorizado consulta salud",
+      "passed": true
+    },
+    {
+      "case": "Salud no aparece en ficha deportiva",
+      "passed": true
+    },
+    {
+      "case": "CSRF en ficha de salud",
+      "passed": true
+    },
+    {
+      "case": "Revocación elimina ficha",
+      "passed": true
+    },
+    {
+      "case": "Admin pierde acceso de escritura tras revocación",
+      "passed": true
+    },
+    {
+      "case": "Nueva autorización tras revocación",
+      "passed": true
+    },
+    {
+      "case": "Auditoría sin contenido médico",
+      "passed": true
+    },
+    {
+      "case": "Crear cuenta de asistente",
+      "passed": true
+    },
+    {
+      "case": "Contraseña temporal obliga a cambiar",
+      "passed": true
+    },
+    {
+      "case": "No saltar cambio obligatorio",
+      "passed": true
+    },
+    {
+      "case": "Cambio contraseña válido",
+      "passed": true
+    },
+    {
+      "case": "Asistente no crea cuenta privilegiada",
+      "passed": true
+    },
+    {
+      "case": "Admin no se desactiva a sí mismo",
+      "passed": true
+    },
+    {
+      "case": "Deshabilitar asistente",
+      "passed": true
+    },
+    {
+      "case": "Sesión revocada inmediatamente",
+      "passed": true
+    },
+    {
+      "case": "Jugador cierra sesión",
+      "passed": true
+    }
+  ]
+}

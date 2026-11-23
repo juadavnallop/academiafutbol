@@ -1,0 +1,243 @@
+{
+  "executed_at": "2026-11-11T12:04:18.796744-05:00",
+  "php": "8.2.12",
+  "database": "10.4.32-MariaDB",
+  "base_url": "http://127.0.0.1:8080",
+  "results": [
+    {
+      "case": "Portal inicio",
+      "passed": true
+    },
+    {
+      "case": "Portal academia",
+      "passed": true
+    },
+    {
+      "case": "Portal horarios",
+      "passed": true
+    },
+    {
+      "case": "Portal noticias",
+      "passed": true
+    },
+    {
+      "case": "Portal contacto",
+      "passed": true
+    },
+    {
+      "case": "Portal login",
+      "passed": true
+    },
+    {
+      "case": "Portal privacidad",
+      "passed": true
+    },
+    {
+      "case": "Cabeceras CSP y nosniff",
+      "passed": true
+    },
+    {
+      "case": "Acceso privado admin",
+      "passed": true
+    },
+    {
+      "case": "Acceso privado admin/contenido&mod=categorias",
+      "passed": true
+    },
+    {
+      "case": "Acceso privado admin/solicitudes",
+      "passed": true
+    },
+    {
+      "case": "POST sin autorización",
+      "passed": true
+    },
+    {
+      "case": "CSRF rechazado",
+      "passed": true
+    },
+    {
+      "case": "Campos vacíos backend",
+      "passed": true
+    },
+    {
+      "case": "CP05 contraseña inválida",
+      "passed": true
+    },
+    {
+      "case": "CP05 login válido y rotación de sesión",
+      "passed": true
+    },
+    {
+      "case": "Cookie HttpOnly SameSite",
+      "passed": true
+    },
+    {
+      "case": "CP06 crear institucion",
+      "passed": true
+    },
+    {
+      "case": "RF01 borrador oculto",
+      "passed": true
+    },
+    {
+      "case": "CP01 institución publicada",
+      "passed": true
+    },
+    {
+      "case": "CP06 crear categorias",
+      "passed": true
+    },
+    {
+      "case": "Rechaza horario invertido",
+      "passed": true
+    },
+    {
+      "case": "CP06 crear horarios",
+      "passed": true
+    },
+    {
+      "case": "CP02 horario visible",
+      "passed": true
+    },
+    {
+      "case": "RF02 horario no vigente oculto",
+      "passed": true
+    },
+    {
+      "case": "RF02 categoría inactiva oculta horarios",
+      "passed": true
+    },
+    {
+      "case": "CP06 crear publicaciones",
+      "passed": true
+    },
+    {
+      "case": "CP03 borrador oculto",
+      "passed": true
+    },
+    {
+      "case": "CP03 publicación visible y XSS escapado",
+      "passed": true
+    },
+    {
+      "case": "Publicación futura oculta",
+      "passed": true
+    },
+    {
+      "case": "Despublicación",
+      "passed": true
+    },
+    {
+      "case": "CSRF privado",
+      "passed": true
+    },
+    {
+      "case": "Módulo no permitido",
+      "passed": true
+    },
+    {
+      "case": "Registro inexistente",
+      "passed": true
+    },
+    {
+      "case": "Rechaza correo real",
+      "passed": true
+    },
+    {
+      "case": "Rechaza falta de consentimiento",
+      "passed": true
+    },
+    {
+      "case": "CP04 recepción",
+      "passed": true
+    },
+    {
+      "case": "Reenvío duplicado bloqueado",
+      "passed": true
+    },
+    {
+      "case": "CP07 lectura privada y escape",
+      "passed": true
+    },
+    {
+      "case": "CP07 cambio de estado",
+      "passed": true
+    },
+    {
+      "case": "Estado inválido",
+      "passed": true
+    },
+    {
+      "case": "Logout GET no modifica sesión",
+      "passed": true
+    },
+    {
+      "case": "Cierre de sesión",
+      "passed": true
+    },
+    {
+      "case": "Archivos internos inaccesibles /app/Core/bootstrap.php",
+      "passed": true
+    },
+    {
+      "case": "Archivos internos inaccesibles /config/local.php",
+      "passed": true
+    },
+    {
+      "case": "Archivos internos inaccesibles /database/schema.sql",
+      "passed": true
+    },
+    {
+      "case": "Archivos internos inaccesibles /.git/config",
+      "passed": true
+    },
+    {
+      "case": "Mediana HTTP <= 3s inicio",
+      "passed": true
+    },
+    {
+      "case": "Mediana HTTP <= 3s academia",
+      "passed": true
+    },
+    {
+      "case": "Mediana HTTP <= 3s horarios",
+      "passed": true
+    },
+    {
+      "case": "Mediana HTTP <= 3s noticias",
+      "passed": true
+    },
+    {
+      "case": "Mediana HTTP <= 3s contacto",
+      "passed": true
+    }
+  ],
+  "performance_http_seconds": {
+    "inicio": {
+      "samples": 10,
+      "median": 0.006877,
+      "max": 0.007643
+    },
+    "academia": {
+      "samples": 10,
+      "median": 0.006696,
+      "max": 0.007904
+    },
+    "horarios": {
+      "samples": 10,
+      "median": 0.007468,
+      "max": 0.027104
+    },
+    "noticias": {
+      "samples": 10,
+      "median": 0.00745,
+      "max": 0.031271
+    },
+    "contacto": {
+      "samples": 10,
+      "median": 0.004108,
+      "max": 0.005045
+    }
+  }
+}
